@@ -1,5 +1,5 @@
 # Synergy — CSC RAS
-*СИНЕРГИЯ — ФИЦ "ИУ" РАН*
+*СИНЕРГИЯ — ФИЦ ИУ РАН*
 
 ## Description
 
@@ -32,10 +32,10 @@ The following datasets support is included in this repo:
 
 #### From MultiBench repo
 
-- CMU-MOSEI
-- CMU-MOSI
-- UR-FUNNY
-- MUStARD
+- CMU-MOSEI (mosei)
+- CMU-MOSI (mosi)
+- UR-FUNNY (humor)
+- MUStARD (sarcasm)
 
 #### Other datasets
 
